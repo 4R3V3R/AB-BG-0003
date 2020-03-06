@@ -1,5 +1,5 @@
 ## CONCEPTOS DE LA CLASE
-- [ ] Almacenamiento de Script y fotos
+- [X] Almacenamiento de Script y fotos - https://github.com/tripler123/AB-BG-0003
 
 
 ## NODOS DE LA CLASE
