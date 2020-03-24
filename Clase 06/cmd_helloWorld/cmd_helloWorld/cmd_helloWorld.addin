@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>cmd_helloWorld.dll</Assembly>
+    <ClientId>8F59BF9B-E29B-41D3-B8A8-C7E0306DE92B</ClientId>
+    <FullClassName>cmd_helloWorld.cmd_helloWorld</FullClassName>
+    <Text>Auto03</Text>
+    <Description>Demonstrates how to use cmd API - BIM Group.</Description>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+    <VendorId>ADSK</VendorId>
+    <VendorDescription>Renzo Rios, www.riosrenzo.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>

@@ -1,6 +1,7 @@
 ## CONCEPTOS DE LA CLASE
-- [ ] Libro de DotNet
-- [ ] Interfaz de Usuario - Visual studio
+- [X] Libro de DotNet
+- [X] POO - Programacion orientada a Objetos
+- [X] Interfaz de Usuario - Visual studio
 - [ ] Libreria de clases
 - [ ] Comunicacion de addins y Revit (Archivos manifiesto)
 

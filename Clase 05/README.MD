@@ -1,6 +1,6 @@
 ## NODOS DE LA CLASE
 
-- [ ] Dynamo Player
-- [ ] Nodos Personalizados
+- [X] Dynamo Player
+- [X] Nodos Personalizados
 
 
