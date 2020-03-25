@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>totalArea.dll</Assembly>
+    <ClientId>5089447C-724A-4EE0-B412-69272FC95A5D</ClientId>
+    <FullClassName>totalArea.totalArea</FullClassName>
+    <Text>Total Area</Text>
+    <Description>Calcular el area de los elementos seleccionados.</Description>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+    <VendorId>ADSK</VendorId>
+    <VendorDescription>Renzo Rios, www.riosrenzo.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>

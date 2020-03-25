@@ -3,8 +3,8 @@
 
 ## Addins de Clase
 
-- [ ] totalArea
-- [ ] pickInformation
+- [X] totalArea
+
 
 
 
